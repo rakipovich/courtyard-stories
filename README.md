@@ -1,15 +1,25 @@
-# Дворовые истории / Courtyard Stories
+# Courtyard Stories
 
-### [▶ Играть в браузере / Play the game](https://rakipovich.me/dvor/)
+### [▶ Play in your browser](https://rakipovich.me/dvor/)
 
-Небольшое пиксельное приключение о дворе, друзьях и вещах, из которых складывается летний день. Выберите Сашу или Таню, исследуйте квартиры и двор, знакомьтесь с соседями, меняйтесь кассетами и находите свои истории. Графика и звук вдохновлены играми эпохи Dendy.
+A pixel-art browser adventure about childhood, friends and the little things that make a summer day. Play as Sasha or Tanya, explore apartments and the courtyard, meet neighbours, swap tapes and discover stories at your own pace. The visuals and sound draw inspiration from the Dendy era.
 
-A pixel-art browser adventure about childhood, neighbours, tapes and a courtyard full of small discoveries. Play as Sasha or Tanya, explore their shared world and follow the stories at your own pace.
+## How to play
 
-## Как играть / How to play
+Tap the floor to walk, tap an object to explore it, and swipe to move it. You can switch between the two characters: they share the same world and its events. The game supports English and Russian, and progress is saved in your browser.
 
-Нажмите на пол, чтобы идти, на предмет — чтобы исследовать, и проведите по нему, чтобы сдвинуть. Героя можно сменить: мир и события у них общие. Игра доступна на русском и английском; прогресс сохраняется в браузере.
+**Status:** An evolving playable prototype. Feedback on confusing interactions and bugs is welcome.
 
-Tap the floor to walk, tap an object to explore it, and swipe to move it. Switch between the two characters as you play. The game supports Russian and English and saves progress in your browser.
+---
+
+## Дворовые истории
+
+[▶ Играть в браузере](https://rakipovich.me/dvor/)
+
+Небольшое пиксельное приключение о детстве, друзьях и вещах, из которых складывается летний день. Играйте за Сашу или Таню, исследуйте квартиры и двор, знакомьтесь с соседями, меняйтесь кассетами и находите истории в своём темпе. Графика и звук вдохновлены эпохой Dendy.
+
+### Как играть
+
+Нажмите на пол, чтобы идти, на предмет — чтобы исследовать, и проведите по нему, чтобы сдвинуть. Между героями можно переключаться: мир и события у них общие. Игра доступна на русском и английском; прогресс сохраняется в браузере.
 
 **Статус:** развивающийся игровой прототип. Обратная связь о непонятных действиях и ошибках приветствуется.
