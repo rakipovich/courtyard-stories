@@ -10,9 +10,11 @@ Tap the floor to walk, tap an object to explore it, and swipe to move it. You ca
 
 **Status:** An evolving playable prototype. Feedback on confusing interactions and bugs is welcome.
 
-## Latest update · October 28, 2026
+## Latest update · October 29, 2026
 
-Improved character visibility around furniture and doorways, corrected seated and bicycle poses, and made VHS cases land on free floor space. Checked across all eight locations and both characters: 119,163 object approaches, 90,608 sprite comparisons and 26 scenario test files. These cover a defined grid and state matrix; feedback from real play remains welcome.
+Completed fresh browser playthroughs as both Sasha and Tanya, through cassette repair, the family VHS story, the kiosk flyer, a two-player arcade victory, the flower accident, wall cleaning, bicycle return and each character’s own-home ending. Checked saves during several quests and reloaded both completed days. Fixed outdated dialogue after the flower was repaired, corrected English interface labels and added a faded, handwritten signature to the stairwell wall. All 26 scenario test files run for this update passed.
+
+Earlier furniture and item-placement checks covered all eight locations on a defined grid. These checks and two complete playthroughs are finite coverage; feedback from other routes remains welcome.
 
 Created by **rakipovich** · [More projects](https://rakipovich.me/) · [Instagram](https://www.instagram.com/rakipovich.studio/)
 
@@ -32,9 +34,11 @@ This repository is a project showcase. Game source files and downloadable game a
 
 **Статус:** развивающийся игровой прототип. Обратная связь о непонятных действиях и ошибках приветствуется.
 
-### Обновление · 28 октября 2026
+### Обновление · 29 октября 2026
 
-Улучшена видимость персонажей возле мебели и дверей, исправлены позы на скамейках и велосипеде. Коробка VHS теперь ложится на свободное место. Проверены восемь локаций и оба героя: 119 163 подхода к предметам, 90 608 сравнений спрайтов и 26 файлов сценарных тестов. Проверки охватывают заданную сетку и состояния; отзывы по реальным прохождениям по-прежнему полезны.
+Игра пройдена с начала за Сашу и Таню: ремонт кассеты, семейная VHS, афиша киоска, победа на приставке, история с цветком, уборка стены, возврат велосипеда и финал каждого героя у себя дома. Проверены сохранения посреди заданий и загрузка обоих завершённых дней. Исправлены устаревшие реплики после починки цветка и английские подписи; надпись в подъезде стала выцветшей и рукописной. Все 26 запущенных файлов сценарных тестов прошли.
+
+Предыдущая проверка мебели и размещения предметов охватила восемь локаций на заданной сетке. Два полных прохождения и эти тесты дают ограниченное покрытие; отзывы о других маршрутах приветствуются.
 
 Автор — **rakipovich** · [Другие проекты](https://rakipovich.me/) · [Instagram](https://www.instagram.com/rakipovich.studio/)
 
