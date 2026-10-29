@@ -12,6 +12,8 @@ Tap the floor to walk, tap an object to explore it, and swipe to move it. You ca
 
 ## Latest update · October 29, 2026
 
+Mobile update: checked portrait and landscape layouts from 320 × 568 to 390 × 844, plus 568 × 320 and 640 × 360. Fixed landscape arcade controls, cassette-repair touch alignment, the moving food-preparation target, clipped onboarding and overlapping carried-item notices. Tested taps, holds, swipes, dragging, menus, VHS playback and save restoration; all 27 automated scenario tests passed. These mobile checks used browser viewport emulation, not physical iOS or Android devices.
+
 Completed fresh browser playthroughs as both Sasha and Tanya, through cassette repair, the family VHS story, the kiosk flyer, a two-player arcade victory, the flower accident, wall cleaning, bicycle return and each character’s own-home ending. Checked saves during several quests and reloaded both completed days. Fixed outdated dialogue after the flower was repaired, corrected English interface labels and added a faded, handwritten signature to the stairwell wall. All 26 scenario test files run for this update passed.
 
 Earlier furniture and item-placement checks covered all eight locations on a defined grid. These checks and two complete playthroughs are finite coverage; feedback from other routes remains welcome.
@@ -36,6 +38,8 @@ This repository is a project showcase. Game source files and downloadable game a
 
 ### Обновление · 29 октября 2026
 
+Мобильное обновление: проверены вертикальные экраны от 320 × 568 до 390 × 844 и горизонтальные 568 × 320 и 640 × 360. Исправлены управление приставкой при повороте, совпадение касаний с деталями кассеты, сдвиг тарелки при готовке, обрезанные подсказки и наложение кнопок предметов на уведомления. Проверены касания, удержания, свайпы, перетаскивания, меню, VHS и восстановление сохранения; все 27 автоматических сценарных тестов прошли. Мобильная проверка выполнена в эмуляции размеров браузера, без физических устройств iOS или Android.
+
 Игра пройдена с начала за Сашу и Таню: ремонт кассеты, семейная VHS, афиша киоска, победа на приставке, история с цветком, уборка стены, возврат велосипеда и финал каждого героя у себя дома. Проверены сохранения посреди заданий и загрузка обоих завершённых дней. Исправлены устаревшие реплики после починки цветка и английские подписи; надпись в подъезде стала выцветшей и рукописной. Все 26 запущенных файлов сценарных тестов прошли.
 
 Предыдущая проверка мебели и размещения предметов охватила восемь локаций на заданной сетке. Два полных прохождения и эти тесты дают ограниченное покрытие; отзывы о других маршрутах приветствуются.
@@ -43,3 +47,4 @@ This repository is a project showcase. Game source files and downloadable game a
 Автор — **rakipovich** · [Другие проекты](https://rakipovich.me/) · [Instagram](https://www.instagram.com/rakipovich.studio/)
 
 Этот репозиторий — страница проекта. Исходников и архивов игры здесь нет.
+
